@@ -1,0 +1,12 @@
+CMD TOOLS TO LEARN
+
+cd
+pwd
+ls
+	ls -lsa
+du
+	du -hs
+
+tab = auto complete
+
+VIM - texting editing
